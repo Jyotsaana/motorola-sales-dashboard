@@ -27,5 +27,4 @@ Interactive Power BI dashboard for analyzing Motorola mobile sales performance a
 - KPI Reporting
 - DAX Calculations
 
-## Author
-Your Name
+
